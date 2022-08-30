@@ -1,0 +1,227 @@
+error: 
+    status - 500 
+    message - ValidationError: "fullName" is required 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-08-29T22:42:27.471Z"}
+error: 
+    status - 500 
+    message - ValidationError: "fullName" is required 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-08-29T22:42:45.986Z"}
+error: 
+    status - 500 
+    message - ValidationError: "fullName" is required 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-08-29T22:44:14.588Z"}
+error: 
+    status - 500 
+    message - ValidationError: "fullName" is required 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-08-29T22:44:28.470Z"}
+error: 
+    status - 500 
+    message - ValidationError: "fullName" is required 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-08-29T22:45:47.452Z"}
+error: 
+    status - 500 
+    message - ValidationError: "email" is required 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-08-29T22:46:49.669Z"}
+error: 
+    status - 500 
+    message - ValidationError: "fullName" is required 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-08-29T22:47:39.751Z"}
+error: 
+    status - 500 
+    message - ValidationError: "fullName" is required 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-08-29T22:50:01.293Z"}
+error: 
+    status - 500 
+    message - ValidationError: "fullName" is required 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-08-29T22:52:27.050Z"}
+error: 
+    status - 500 
+    message - ValidationError: "fullName" is required 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-08-29T22:59:49.241Z"}
+error: 
+    status - 500 
+    message - ValidationError: "fullName" is required 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-08-29T23:02:12.312Z"}
+error: 
+    status - 500 
+    message - ValidationError: "fullName" is required 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-08-29T23:05:04.455Z"}
+error: 
+    status - 500 
+    message - ValidationError: "fullName" is required 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-08-29T23:11:28.117Z"}
+error: 
+    status - 500 
+    message - ValidationError: "fullName" is required 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-08-29T23:13:00.037Z"}
+error: 
+    status - 500 
+    message - ValidationError: "fullName" is required 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-08-29T23:13:03.984Z"}
+error: 
+    status - 500 
+    message - ValidationError: "fullName" is required 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-08-29T23:14:36.747Z"}
+error: 
+    status - 500 
+    message - ValidationError: "fullName" is required 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-08-29T23:57:20.883Z"}
+error: uncaughtException: bookRoute is not defined
+ReferenceError: bookRoute is not defined
+    at routes (C:\Users\kanch\OneDrive\Desktop\BookStore\bookStore\src\routes\/index.js:16:24)
+    at Object.<anonymous> (C:\Users\kanch\OneDrive\Desktop\BookStore\bookStore\src\/index.js:32:32)
+    at Module._compile (node:internal/modules/cjs/loader:1103:14)
+    at Module._compile (C:\Users\kanch\OneDrive\Desktop\BookStore\bookStore\node_modules\pirates\lib\index.js:136:24)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1157:10)
+    at Object.newLoader [as .js] (C:\Users\kanch\OneDrive\Desktop\BookStore\bookStore\node_modules\pirates\lib\index.js:141:7)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)
+    at Object.<anonymous> (C:\Users\kanch\OneDrive\Desktop\BookStore\bookStore\node_modules\@babel\node\lib\_babel-node.js:176:21)
+    at Module._compile (node:internal/modules/cjs/loader:1103:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1157:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)
+    at node:internal/main/run_main_module:17:47 {"date":"Tue Aug 30 2022 07:06:59 GMT+0700 (Indochina Time)","error":{},"exception":true,"os":{"loadavg":[0,0,0],"uptime":1222482},"process":{"argv":["node","C:\\Users\\kanch\\OneDrive\\Desktop\\BookStore\\bookStore\\src\\index.js"],"cwd":"C:\\Users\\kanch\\OneDrive\\Desktop\\BookStore\\bookStore","execPath":"C:\\Program Files\\nodejs\\node.exe","gid":null,"memoryUsage":{"arrayBuffers":18924403,"external":28951996,"heapTotal":79437824,"heapUsed":52038200,"rss":113238016},"pid":12496,"uid":null,"version":"v16.14.2"},"stack":"ReferenceError: bookRoute is not defined\n    at routes (C:\\Users\\kanch\\OneDrive\\Desktop\\BookStore\\bookStore\\src\\routes\\/index.js:16:24)\n    at Object.<anonymous> (C:\\Users\\kanch\\OneDrive\\Desktop\\BookStore\\bookStore\\src\\/index.js:32:32)\n    at Module._compile (node:internal/modules/cjs/loader:1103:14)\n    at Module._compile (C:\\Users\\kanch\\OneDrive\\Desktop\\BookStore\\bookStore\\node_modules\\pirates\\lib\\index.js:136:24)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1157:10)\n    at Object.newLoader [as .js] (C:\\Users\\kanch\\OneDrive\\Desktop\\BookStore\\bookStore\\node_modules\\pirates\\lib\\index.js:141:7)\n    at Module.load (node:internal/modules/cjs/loader:981:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:822:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)\n    at Object.<anonymous> (C:\\Users\\kanch\\OneDrive\\Desktop\\BookStore\\bookStore\\node_modules\\@babel\\node\\lib\\_babel-node.js:176:21)\n    at Module._compile (node:internal/modules/cjs/loader:1103:14)\n    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1157:10)\n    at Module.load (node:internal/modules/cjs/loader:981:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:822:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)\n    at node:internal/main/run_main_module:17:47","timestamp":"2022-08-30T00:07:00.411Z","trace":[{"column":24,"file":"C:\\Users\\kanch\\OneDrive\\Desktop\\BookStore\\bookStore\\src\\routes\\/index.js","function":"routes","line":16,"method":null,"native":false},{"column":32,"file":"C:\\Users\\kanch\\OneDrive\\Desktop\\BookStore\\bookStore\\src\\/index.js","function":null,"line":32,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1103,"method":"_compile","native":false},{"column":24,"file":"C:\\Users\\kanch\\OneDrive\\Desktop\\BookStore\\bookStore\\node_modules\\pirates\\lib\\index.js","function":"Module._compile","line":136,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":"Module._extensions..js","line":1157,"method":".js","native":false},{"column":7,"file":"C:\\Users\\kanch\\OneDrive\\Desktop\\BookStore\\bookStore\\node_modules\\pirates\\lib\\index.js","function":"Object.newLoader [as .js]","line":141,"method":"js]","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":981,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Module._load","line":822,"method":"_load","native":false},{"column":12,"file":"node:internal/modules/run_main","function":"Function.executeUserEntryPoint [as runMain]","line":77,"method":"executeUserEntryPoint [as runMain]","native":false},{"column":21,"file":"C:\\Users\\kanch\\OneDrive\\Desktop\\BookStore\\bookStore\\node_modules\\@babel\\node\\lib\\_babel-node.js","function":null,"line":176,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1103,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":"Module._extensions..js","line":1157,"method":".js","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":981,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Module._load","line":822,"method":"_load","native":false},{"column":12,"file":"node:internal/modules/run_main","function":"Function.executeUserEntryPoint [as runMain]","line":77,"method":"executeUserEntryPoint [as runMain]","native":false},{"column":47,"file":"node:internal/main/run_main_module","function":null,"line":17,"method":null,"native":false}]}
+error: uncaughtException: bookRoute is not defined
+ReferenceError: bookRoute is not defined
+    at routes (C:\Users\kanch\OneDrive\Desktop\BookStore\bookStore\src\routes\/index.js:16:24)
+    at Object.<anonymous> (C:\Users\kanch\OneDrive\Desktop\BookStore\bookStore\src\/index.js:32:32)
+    at Module._compile (node:internal/modules/cjs/loader:1103:14)
+    at Module._compile (C:\Users\kanch\OneDrive\Desktop\BookStore\bookStore\node_modules\pirates\lib\index.js:136:24)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1157:10)
+    at Object.newLoader [as .js] (C:\Users\kanch\OneDrive\Desktop\BookStore\bookStore\node_modules\pirates\lib\index.js:141:7)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)
+    at Object.<anonymous> (C:\Users\kanch\OneDrive\Desktop\BookStore\bookStore\node_modules\@babel\node\lib\_babel-node.js:176:21)
+    at Module._compile (node:internal/modules/cjs/loader:1103:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1157:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)
+    at node:internal/main/run_main_module:17:47 {"date":"Tue Aug 30 2022 07:07:16 GMT+0700 (Indochina Time)","error":{},"exception":true,"os":{"loadavg":[0,0,0],"uptime":1222499},"process":{"argv":["node","C:\\Users\\kanch\\OneDrive\\Desktop\\BookStore\\bookStore\\src\\index.js"],"cwd":"C:\\Users\\kanch\\OneDrive\\Desktop\\BookStore\\bookStore","execPath":"C:\\Program Files\\nodejs\\node.exe","gid":null,"memoryUsage":{"arrayBuffers":18573002,"external":28794767,"heapTotal":78389248,"heapUsed":46514232,"rss":112345088},"pid":26208,"uid":null,"version":"v16.14.2"},"stack":"ReferenceError: bookRoute is not defined\n    at routes (C:\\Users\\kanch\\OneDrive\\Desktop\\BookStore\\bookStore\\src\\routes\\/index.js:16:24)\n    at Object.<anonymous> (C:\\Users\\kanch\\OneDrive\\Desktop\\BookStore\\bookStore\\src\\/index.js:32:32)\n    at Module._compile (node:internal/modules/cjs/loader:1103:14)\n    at Module._compile (C:\\Users\\kanch\\OneDrive\\Desktop\\BookStore\\bookStore\\node_modules\\pirates\\lib\\index.js:136:24)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1157:10)\n    at Object.newLoader [as .js] (C:\\Users\\kanch\\OneDrive\\Desktop\\BookStore\\bookStore\\node_modules\\pirates\\lib\\index.js:141:7)\n    at Module.load (node:internal/modules/cjs/loader:981:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:822:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)\n    at Object.<anonymous> (C:\\Users\\kanch\\OneDrive\\Desktop\\BookStore\\bookStore\\node_modules\\@babel\\node\\lib\\_babel-node.js:176:21)\n    at Module._compile (node:internal/modules/cjs/loader:1103:14)\n    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1157:10)\n    at Module.load (node:internal/modules/cjs/loader:981:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:822:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)\n    at node:internal/main/run_main_module:17:47","timestamp":"2022-08-30T00:07:16.779Z","trace":[{"column":24,"file":"C:\\Users\\kanch\\OneDrive\\Desktop\\BookStore\\bookStore\\src\\routes\\/index.js","function":"routes","line":16,"method":null,"native":false},{"column":32,"file":"C:\\Users\\kanch\\OneDrive\\Desktop\\BookStore\\bookStore\\src\\/index.js","function":null,"line":32,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1103,"method":"_compile","native":false},{"column":24,"file":"C:\\Users\\kanch\\OneDrive\\Desktop\\BookStore\\bookStore\\node_modules\\pirates\\lib\\index.js","function":"Module._compile","line":136,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":"Module._extensions..js","line":1157,"method":".js","native":false},{"column":7,"file":"C:\\Users\\kanch\\OneDrive\\Desktop\\BookStore\\bookStore\\node_modules\\pirates\\lib\\index.js","function":"Object.newLoader [as .js]","line":141,"method":"js]","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":981,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Module._load","line":822,"method":"_load","native":false},{"column":12,"file":"node:internal/modules/run_main","function":"Function.executeUserEntryPoint [as runMain]","line":77,"method":"executeUserEntryPoint [as runMain]","native":false},{"column":21,"file":"C:\\Users\\kanch\\OneDrive\\Desktop\\BookStore\\bookStore\\node_modules\\@babel\\node\\lib\\_babel-node.js","function":null,"line":176,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1103,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":"Module._extensions..js","line":1157,"method":".js","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":981,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Module._load","line":822,"method":"_load","native":false},{"column":12,"file":"node:internal/modules/run_main","function":"Function.executeUserEntryPoint [as runMain]","line":77,"method":"executeUserEntryPoint [as runMain]","native":false},{"column":47,"file":"node:internal/main/run_main_module","function":null,"line":17,"method":null,"native":false}]}
+error: uncaughtException: Router.use() requires a middleware function but got a Object
+TypeError: Router.use() requires a middleware function but got a Object
+    at Function.use (C:\Users\kanch\OneDrive\Desktop\BookStore\bookStore\node_modules\express\lib\router\index.js:469:13)
+    at routes (C:\Users\kanch\OneDrive\Desktop\BookStore\bookStore\src\routes\/index.js:17:10)
+    at Object.<anonymous> (C:\Users\kanch\OneDrive\Desktop\BookStore\bookStore\src\/index.js:32:32)
+    at Module._compile (node:internal/modules/cjs/loader:1103:14)
+    at Module._compile (C:\Users\kanch\OneDrive\Desktop\BookStore\bookStore\node_modules\pirates\lib\index.js:136:24)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1157:10)
+    at Object.newLoader [as .js] (C:\Users\kanch\OneDrive\Desktop\BookStore\bookStore\node_modules\pirates\lib\index.js:141:7)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)
+    at Object.<anonymous> (C:\Users\kanch\OneDrive\Desktop\BookStore\bookStore\node_modules\@babel\node\lib\_babel-node.js:176:21)
+    at Module._compile (node:internal/modules/cjs/loader:1103:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1157:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12) {"date":"Tue Aug 30 2022 07:07:38 GMT+0700 (Indochina Time)","error":{},"exception":true,"os":{"loadavg":[0,0,0],"uptime":1222521},"process":{"argv":["node","C:\\Users\\kanch\\OneDrive\\Desktop\\BookStore\\bookStore\\src\\index.js"],"cwd":"C:\\Users\\kanch\\OneDrive\\Desktop\\BookStore\\bookStore","execPath":"C:\\Program Files\\nodejs\\node.exe","gid":null,"memoryUsage":{"arrayBuffers":18985176,"external":28991969,"heapTotal":79962112,"heapUsed":53163096,"rss":114032640},"pid":16084,"uid":null,"version":"v16.14.2"},"stack":"TypeError: Router.use() requires a middleware function but got a Object\n    at Function.use (C:\\Users\\kanch\\OneDrive\\Desktop\\BookStore\\bookStore\\node_modules\\express\\lib\\router\\index.js:469:13)\n    at routes (C:\\Users\\kanch\\OneDrive\\Desktop\\BookStore\\bookStore\\src\\routes\\/index.js:17:10)\n    at Object.<anonymous> (C:\\Users\\kanch\\OneDrive\\Desktop\\BookStore\\bookStore\\src\\/index.js:32:32)\n    at Module._compile (node:internal/modules/cjs/loader:1103:14)\n    at Module._compile (C:\\Users\\kanch\\OneDrive\\Desktop\\BookStore\\bookStore\\node_modules\\pirates\\lib\\index.js:136:24)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1157:10)\n    at Object.newLoader [as .js] (C:\\Users\\kanch\\OneDrive\\Desktop\\BookStore\\bookStore\\node_modules\\pirates\\lib\\index.js:141:7)\n    at Module.load (node:internal/modules/cjs/loader:981:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:822:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)\n    at Object.<anonymous> (C:\\Users\\kanch\\OneDrive\\Desktop\\BookStore\\bookStore\\node_modules\\@babel\\node\\lib\\_babel-node.js:176:21)\n    at Module._compile (node:internal/modules/cjs/loader:1103:14)\n    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1157:10)\n    at Module.load (node:internal/modules/cjs/loader:981:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:822:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)","timestamp":"2022-08-30T00:07:38.927Z","trace":[{"column":13,"file":"C:\\Users\\kanch\\OneDrive\\Desktop\\BookStore\\bookStore\\node_modules\\express\\lib\\router\\index.js","function":"Function.use","line":469,"method":"use","native":false},{"column":10,"file":"C:\\Users\\kanch\\OneDrive\\Desktop\\BookStore\\bookStore\\src\\routes\\/index.js","function":"routes","line":17,"method":null,"native":false},{"column":32,"file":"C:\\Users\\kanch\\OneDrive\\Desktop\\BookStore\\bookStore\\src\\/index.js","function":null,"line":32,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1103,"method":"_compile","native":false},{"column":24,"file":"C:\\Users\\kanch\\OneDrive\\Desktop\\BookStore\\bookStore\\node_modules\\pirates\\lib\\index.js","function":"Module._compile","line":136,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":"Module._extensions..js","line":1157,"method":".js","native":false},{"column":7,"file":"C:\\Users\\kanch\\OneDrive\\Desktop\\BookStore\\bookStore\\node_modules\\pirates\\lib\\index.js","function":"Object.newLoader [as .js]","line":141,"method":"js]","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":981,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Module._load","line":822,"method":"_load","native":false},{"column":12,"file":"node:internal/modules/run_main","function":"Function.executeUserEntryPoint [as runMain]","line":77,"method":"executeUserEntryPoint [as runMain]","native":false},{"column":21,"file":"C:\\Users\\kanch\\OneDrive\\Desktop\\BookStore\\bookStore\\node_modules\\@babel\\node\\lib\\_babel-node.js","function":null,"line":176,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1103,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":"Module._extensions..js","line":1157,"method":".js","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":981,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Module._load","line":822,"method":"_load","native":false},{"column":12,"file":"node:internal/modules/run_main","function":"Function.executeUserEntryPoint [as runMain]","line":77,"method":"executeUserEntryPoint [as runMain]","native":false}]}
+error: uncaughtException: cartRoute is not defined
+ReferenceError: cartRoute is not defined
+    at routes (C:\Users\kanch\OneDrive\Desktop\BookStore\bookStore\src\routes\/index.js:18:23)
+    at Object.<anonymous> (C:\Users\kanch\OneDrive\Desktop\BookStore\bookStore\src\/index.js:32:32)
+    at Module._compile (node:internal/modules/cjs/loader:1103:14)
+    at Module._compile (C:\Users\kanch\OneDrive\Desktop\BookStore\bookStore\node_modules\pirates\lib\index.js:136:24)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1157:10)
+    at Object.newLoader [as .js] (C:\Users\kanch\OneDrive\Desktop\BookStore\bookStore\node_modules\pirates\lib\index.js:141:7)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)
+    at Object.<anonymous> (C:\Users\kanch\OneDrive\Desktop\BookStore\bookStore\node_modules\@babel\node\lib\_babel-node.js:176:21)
+    at Module._compile (node:internal/modules/cjs/loader:1103:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1157:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)
+    at node:internal/main/run_main_module:17:47 {"date":"Tue Aug 30 2022 15:14:42 GMT+0700 (Indochina Time)","error":{},"exception":true,"os":{"loadavg":[0,0,0],"uptime":1251745},"process":{"argv":["node","C:\\Users\\kanch\\OneDrive\\Desktop\\BookStore\\bookStore\\src\\index.js"],"cwd":"C:\\Users\\kanch\\OneDrive\\Desktop\\BookStore\\bookStore","execPath":"C:\\Program Files\\nodejs\\node.exe","gid":null,"memoryUsage":{"arrayBuffers":19065030,"external":31080085,"heapTotal":79437824,"heapUsed":54461768,"rss":113561600},"pid":30436,"uid":null,"version":"v16.14.2"},"stack":"ReferenceError: cartRoute is not defined\n    at routes (C:\\Users\\kanch\\OneDrive\\Desktop\\BookStore\\bookStore\\src\\routes\\/index.js:18:23)\n    at Object.<anonymous> (C:\\Users\\kanch\\OneDrive\\Desktop\\BookStore\\bookStore\\src\\/index.js:32:32)\n    at Module._compile (node:internal/modules/cjs/loader:1103:14)\n    at Module._compile (C:\\Users\\kanch\\OneDrive\\Desktop\\BookStore\\bookStore\\node_modules\\pirates\\lib\\index.js:136:24)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1157:10)\n    at Object.newLoader [as .js] (C:\\Users\\kanch\\OneDrive\\Desktop\\BookStore\\bookStore\\node_modules\\pirates\\lib\\index.js:141:7)\n    at Module.load (node:internal/modules/cjs/loader:981:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:822:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)\n    at Object.<anonymous> (C:\\Users\\kanch\\OneDrive\\Desktop\\BookStore\\bookStore\\node_modules\\@babel\\node\\lib\\_babel-node.js:176:21)\n    at Module._compile (node:internal/modules/cjs/loader:1103:14)\n    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1157:10)\n    at Module.load (node:internal/modules/cjs/loader:981:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:822:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)\n    at node:internal/main/run_main_module:17:47","timestamp":"2022-08-30T08:14:42.871Z","trace":[{"column":23,"file":"C:\\Users\\kanch\\OneDrive\\Desktop\\BookStore\\bookStore\\src\\routes\\/index.js","function":"routes","line":18,"method":null,"native":false},{"column":32,"file":"C:\\Users\\kanch\\OneDrive\\Desktop\\BookStore\\bookStore\\src\\/index.js","function":null,"line":32,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1103,"method":"_compile","native":false},{"column":24,"file":"C:\\Users\\kanch\\OneDrive\\Desktop\\BookStore\\bookStore\\node_modules\\pirates\\lib\\index.js","function":"Module._compile","line":136,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":"Module._extensions..js","line":1157,"method":".js","native":false},{"column":7,"file":"C:\\Users\\kanch\\OneDrive\\Desktop\\BookStore\\bookStore\\node_modules\\pirates\\lib\\index.js","function":"Object.newLoader [as .js]","line":141,"method":"js]","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":981,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Module._load","line":822,"method":"_load","native":false},{"column":12,"file":"node:internal/modules/run_main","function":"Function.executeUserEntryPoint [as runMain]","line":77,"method":"executeUserEntryPoint [as runMain]","native":false},{"column":21,"file":"C:\\Users\\kanch\\OneDrive\\Desktop\\BookStore\\bookStore\\node_modules\\@babel\\node\\lib\\_babel-node.js","function":null,"line":176,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1103,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":"Module._extensions..js","line":1157,"method":".js","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":981,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Module._load","line":822,"method":"_load","native":false},{"column":12,"file":"node:internal/modules/run_main","function":"Function.executeUserEntryPoint [as runMain]","line":77,"method":"executeUserEntryPoint [as runMain]","native":false},{"column":47,"file":"node:internal/main/run_main_module","function":null,"line":17,"method":null,"native":false}]}
+error: uncaughtException: Router.use() requires a middleware function but got a Object
+TypeError: Router.use() requires a middleware function but got a Object
+    at Function.use (C:\Users\kanch\OneDrive\Desktop\BookStore\bookStore\node_modules\express\lib\router\index.js:469:13)
+    at routes (C:\Users\kanch\OneDrive\Desktop\BookStore\bookStore\src\routes\/index.js:19:10)
+    at Object.<anonymous> (C:\Users\kanch\OneDrive\Desktop\BookStore\bookStore\src\/index.js:32:32)
+    at Module._compile (node:internal/modules/cjs/loader:1103:14)
+    at Module._compile (C:\Users\kanch\OneDrive\Desktop\BookStore\bookStore\node_modules\pirates\lib\index.js:136:24)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1157:10)
+    at Object.newLoader [as .js] (C:\Users\kanch\OneDrive\Desktop\BookStore\bookStore\node_modules\pirates\lib\index.js:141:7)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)
+    at Object.<anonymous> (C:\Users\kanch\OneDrive\Desktop\BookStore\bookStore\node_modules\@babel\node\lib\_babel-node.js:176:21)
+    at Module._compile (node:internal/modules/cjs/loader:1103:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1157:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12) {"date":"Tue Aug 30 2022 15:15:17 GMT+0700 (Indochina Time)","error":{},"exception":true,"os":{"loadavg":[0,0,0],"uptime":1251779},"process":{"argv":["node","C:\\Users\\kanch\\OneDrive\\Desktop\\BookStore\\bookStore\\src\\index.js"],"cwd":"C:\\Users\\kanch\\OneDrive\\Desktop\\BookStore\\bookStore","execPath":"C:\\Program Files\\nodejs\\node.exe","gid":null,"memoryUsage":{"arrayBuffers":19149699,"external":29079342,"heapTotal":79437824,"heapUsed":55336824,"rss":113840128},"pid":15652,"uid":null,"version":"v16.14.2"},"stack":"TypeError: Router.use() requires a middleware function but got a Object\n    at Function.use (C:\\Users\\kanch\\OneDrive\\Desktop\\BookStore\\bookStore\\node_modules\\express\\lib\\router\\index.js:469:13)\n    at routes (C:\\Users\\kanch\\OneDrive\\Desktop\\BookStore\\bookStore\\src\\routes\\/index.js:19:10)\n    at Object.<anonymous> (C:\\Users\\kanch\\OneDrive\\Desktop\\BookStore\\bookStore\\src\\/index.js:32:32)\n    at Module._compile (node:internal/modules/cjs/loader:1103:14)\n    at Module._compile (C:\\Users\\kanch\\OneDrive\\Desktop\\BookStore\\bookStore\\node_modules\\pirates\\lib\\index.js:136:24)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1157:10)\n    at Object.newLoader [as .js] (C:\\Users\\kanch\\OneDrive\\Desktop\\BookStore\\bookStore\\node_modules\\pirates\\lib\\index.js:141:7)\n    at Module.load (node:internal/modules/cjs/loader:981:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:822:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)\n    at Object.<anonymous> (C:\\Users\\kanch\\OneDrive\\Desktop\\BookStore\\bookStore\\node_modules\\@babel\\node\\lib\\_babel-node.js:176:21)\n    at Module._compile (node:internal/modules/cjs/loader:1103:14)\n    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1157:10)\n    at Module.load (node:internal/modules/cjs/loader:981:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:822:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)","timestamp":"2022-08-30T08:15:17.438Z","trace":[{"column":13,"file":"C:\\Users\\kanch\\OneDrive\\Desktop\\BookStore\\bookStore\\node_modules\\express\\lib\\router\\index.js","function":"Function.use","line":469,"method":"use","native":false},{"column":10,"file":"C:\\Users\\kanch\\OneDrive\\Desktop\\BookStore\\bookStore\\src\\routes\\/index.js","function":"routes","line":19,"method":null,"native":false},{"column":32,"file":"C:\\Users\\kanch\\OneDrive\\Desktop\\BookStore\\bookStore\\src\\/index.js","function":null,"line":32,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1103,"method":"_compile","native":false},{"column":24,"file":"C:\\Users\\kanch\\OneDrive\\Desktop\\BookStore\\bookStore\\node_modules\\pirates\\lib\\index.js","function":"Module._compile","line":136,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":"Module._extensions..js","line":1157,"method":".js","native":false},{"column":7,"file":"C:\\Users\\kanch\\OneDrive\\Desktop\\BookStore\\bookStore\\node_modules\\pirates\\lib\\index.js","function":"Object.newLoader [as .js]","line":141,"method":"js]","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":981,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Module._load","line":822,"method":"_load","native":false},{"column":12,"file":"node:internal/modules/run_main","function":"Function.executeUserEntryPoint [as runMain]","line":77,"method":"executeUserEntryPoint [as runMain]","native":false},{"column":21,"file":"C:\\Users\\kanch\\OneDrive\\Desktop\\BookStore\\bookStore\\node_modules\\@babel\\node\\lib\\_babel-node.js","function":null,"line":176,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1103,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":"Module._extensions..js","line":1157,"method":".js","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":981,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Module._load","line":822,"method":"_load","native":false},{"column":12,"file":"node:internal/modules/run_main","function":"Function.executeUserEntryPoint [as runMain]","line":77,"method":"executeUserEntryPoint [as runMain]","native":false}]}
+error: uncaughtException: Router.use() requires a middleware function but got a Object
+TypeError: Router.use() requires a middleware function but got a Object
+    at Function.use (C:\Users\kanch\OneDrive\Desktop\BookStore\bookStore\node_modules\express\lib\router\index.js:469:13)
+    at routes (C:\Users\kanch\OneDrive\Desktop\BookStore\bookStore\src\routes\/index.js:19:10)
+    at Object.<anonymous> (C:\Users\kanch\OneDrive\Desktop\BookStore\bookStore\src\/index.js:32:32)
+    at Module._compile (node:internal/modules/cjs/loader:1103:14)
+    at Module._compile (C:\Users\kanch\OneDrive\Desktop\BookStore\bookStore\node_modules\pirates\lib\index.js:136:24)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1157:10)
+    at Object.newLoader [as .js] (C:\Users\kanch\OneDrive\Desktop\BookStore\bookStore\node_modules\pirates\lib\index.js:141:7)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)
+    at Object.<anonymous> (C:\Users\kanch\OneDrive\Desktop\BookStore\bookStore\node_modules\@babel\node\lib\_babel-node.js:176:21)
+    at Module._compile (node:internal/modules/cjs/loader:1103:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1157:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12) {"date":"Tue Aug 30 2022 15:15:38 GMT+0700 (Indochina Time)","error":{},"exception":true,"os":{"loadavg":[0,0,0],"uptime":1251800},"process":{"argv":["node","C:\\Users\\kanch\\OneDrive\\Desktop\\BookStore\\bookStore\\src\\index.js"],"cwd":"C:\\Users\\kanch\\OneDrive\\Desktop\\BookStore\\bookStore","execPath":"C:\\Program Files\\nodejs\\node.exe","gid":null,"memoryUsage":{"arrayBuffers":19059681,"external":29077606,"heapTotal":79699968,"heapUsed":56591672,"rss":114491392},"pid":6572,"uid":null,"version":"v16.14.2"},"stack":"TypeError: Router.use() requires a middleware function but got a Object\n    at Function.use (C:\\Users\\kanch\\OneDrive\\Desktop\\BookStore\\bookStore\\node_modules\\express\\lib\\router\\index.js:469:13)\n    at routes (C:\\Users\\kanch\\OneDrive\\Desktop\\BookStore\\bookStore\\src\\routes\\/index.js:19:10)\n    at Object.<anonymous> (C:\\Users\\kanch\\OneDrive\\Desktop\\BookStore\\bookStore\\src\\/index.js:32:32)\n    at Module._compile (node:internal/modules/cjs/loader:1103:14)\n    at Module._compile (C:\\Users\\kanch\\OneDrive\\Desktop\\BookStore\\bookStore\\node_modules\\pirates\\lib\\index.js:136:24)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1157:10)\n    at Object.newLoader [as .js] (C:\\Users\\kanch\\OneDrive\\Desktop\\BookStore\\bookStore\\node_modules\\pirates\\lib\\index.js:141:7)\n    at Module.load (node:internal/modules/cjs/loader:981:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:822:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)\n    at Object.<anonymous> (C:\\Users\\kanch\\OneDrive\\Desktop\\BookStore\\bookStore\\node_modules\\@babel\\node\\lib\\_babel-node.js:176:21)\n    at Module._compile (node:internal/modules/cjs/loader:1103:14)\n    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1157:10)\n    at Module.load (node:internal/modules/cjs/loader:981:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:822:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)","timestamp":"2022-08-30T08:15:38.105Z","trace":[{"column":13,"file":"C:\\Users\\kanch\\OneDrive\\Desktop\\BookStore\\bookStore\\node_modules\\express\\lib\\router\\index.js","function":"Function.use","line":469,"method":"use","native":false},{"column":10,"file":"C:\\Users\\kanch\\OneDrive\\Desktop\\BookStore\\bookStore\\src\\routes\\/index.js","function":"routes","line":19,"method":null,"native":false},{"column":32,"file":"C:\\Users\\kanch\\OneDrive\\Desktop\\BookStore\\bookStore\\src\\/index.js","function":null,"line":32,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1103,"method":"_compile","native":false},{"column":24,"file":"C:\\Users\\kanch\\OneDrive\\Desktop\\BookStore\\bookStore\\node_modules\\pirates\\lib\\index.js","function":"Module._compile","line":136,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":"Module._extensions..js","line":1157,"method":".js","native":false},{"column":7,"file":"C:\\Users\\kanch\\OneDrive\\Desktop\\BookStore\\bookStore\\node_modules\\pirates\\lib\\index.js","function":"Object.newLoader [as .js]","line":141,"method":"js]","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":981,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Module._load","line":822,"method":"_load","native":false},{"column":12,"file":"node:internal/modules/run_main","function":"Function.executeUserEntryPoint [as runMain]","line":77,"method":"executeUserEntryPoint [as runMain]","native":false},{"column":21,"file":"C:\\Users\\kanch\\OneDrive\\Desktop\\BookStore\\bookStore\\node_modules\\@babel\\node\\lib\\_babel-node.js","function":null,"line":176,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1103,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":"Module._extensions..js","line":1157,"method":".js","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":981,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Module._load","line":822,"method":"_load","native":false},{"column":12,"file":"node:internal/modules/run_main","function":"Function.executeUserEntryPoint [as runMain]","line":77,"method":"executeUserEntryPoint [as runMain]","native":false}]}

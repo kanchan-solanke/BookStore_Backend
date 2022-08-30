@@ -1,0 +1,69 @@
+import User from '../models/user.model';
+import bcrypt from 'bcrypt';
+import jwt from 'jsonwebtoken';
+import { passwordHasher } from '../utils/user.util';
+//get all users
+export const userlogin = async (body) => {
+  const data = await User.findOne({ email: body.email });
+
+  console.log("data", body.email)
+  return data;
+
+
+  // if (data == null) {
+  //   throw new Error("User dosen't exist");
+  // } 
+  //   if (result) {
+  //     const token = jwt.sign({ "Id": data._id, "fullName": data.fullName, "email": data.email }, process.env.SECRET_KEY);
+  //     console.log("email",token);
+  //     return token;
+
+  //   }
+  //   else {
+  //     throw new Error("Invalid Passowrd");
+  //   }
+  }
+
+
+//create new user
+export const newUser = async (body) => {
+  // const data1 = await User.findOne({ email: body.email });
+  // if (data1 != null) {
+  //   throw new Error("User is already exist")
+  // }
+  // else {
+  const data = await User.create(body);
+  console.log("data",data)
+  return data;
+  // }
+
+};
+
+
+
+//findupdate emaild id and update but before update use hash password
+
+export const forgetPassword = async (body) => {
+    const data = await User.findOne({email: body.email })
+    return data;
+  //   if(data != null){
+  //     const token = jwt.sign({email:data.email, _id : data.id }, process.env.FORGET_KEY)
+  //     const send = await mailSend(data.email, token)
+
+  //     return send;
+  //   }
+  //     else{
+
+  // throw new Error('Email is not exist')
+
+  //   }
+}
+
+export const resetPassword = async (body) => {
+  
+//  const hashResult = await passwordHasher(body.password)
+//   body.password = hashResult;
+//   return hashResult;
+ const data = await User.findOneAndUpdate({email: body.email, password: body.password},{new :true})
+    return data;
+}
